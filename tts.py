@@ -5,7 +5,7 @@ import sounddevice as sd
 import soundfile as sf
 import edge_tts
 
-VOICE = "en-US-AndrewMultilingualNeural"  
+VOICE = "en-US-BrainNeural"
 
 RATE = "+0%"     
 VOLUME = "+0%"   
